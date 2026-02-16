@@ -3,7 +3,7 @@
 QingLing - Free and Open Source Original Character(OC) Project
 
 # 立意
-该OC角色可以随便养，随便发电和二创，不会出现版权问题
+不受限制的OC角色，可以随便养、使用、发电和二创等等，不会出现版权问题
 
 # 版权与授权说明
 
